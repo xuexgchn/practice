@@ -1,14 +1,19 @@
 package main
 
 import "fmt"
+import "../../mytest"
 
 func main() {
 	fmt.Println(test())
 }
 
 func test() bool {
-	intersection([]int{1,2,2,1}, []int{2,2})
-	fmt.Println(intersection([]int{4, 9, 5}, []int{9, 4, 9, 8, 4}))
+	if mytest.IntSliceEqual(intersection([]int{1, 2, 2, 1}, []int{2, 2}), []int{2}) != true {
+		return false
+	}
+	if mytest.IntSliceEqual(intersection([]int{4, 9, 5}, []int{9, 4, 9, 8, 4}), []int{4, 9}) != true {
+		return false
+	}
 	return true
 }
 
