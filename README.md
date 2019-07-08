@@ -14,6 +14,7 @@ Practice makes perfect.
 0020|valid-parentheses | Done | 
 0021|merge-two-sorted-lists | | Done
 0026|Remove-Duplicates-from-Sorted-Array | | Done
+0027|Remove-Element | | Done |
 0050|powx-n | | Done
 0053|maximum-subarray | | Done
 0066|plus-one| | Done |
