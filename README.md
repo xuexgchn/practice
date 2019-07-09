@@ -20,6 +20,7 @@ Practice makes perfect.
 0038|Count-and-Say | | Done |
 0050|powx-n | | Done
 0053|maximum-subarray | | Done
+0058|Length-of-Last-Word | | Done|
 0066|plus-one| | Done |
 0070|climbing-stairs | | Done
 0118|pascals-triangle | | Done
