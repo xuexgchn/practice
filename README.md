@@ -16,6 +16,7 @@ Practice makes perfect.
 0026|Remove-Duplicates-from-Sorted-Array | | Done
 0027|Remove-Element | | Done |
 0028|Implement-strStr()| |Done|
+0035|Search-Insert-Position | | Done|
 0050|powx-n | | Done
 0053|maximum-subarray | | Done
 0066|plus-one| | Done |
