@@ -29,6 +29,8 @@ Practice makes perfect.
 0088|Merge-Sorted-Array | | Done |
 0118|pascals-triangle | | Done
 0119|pascals-triangle-ii | | Done
+0121|Best-Time-to-Buy-and-Sell-Stock | | Done|
+0122|Best-Time-to-Buy-and-Sell-Stock-II| | Done |
 0169|majority-element | | Done
 0347|top-k-frequent-elements | Done 
 0349|intersection-of-two-arrays | | Done
