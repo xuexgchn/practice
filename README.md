@@ -25,6 +25,7 @@ Practice makes perfect.
 0067|Add-Binary | | Done |
 0069|Sqrt(x) | | Done |
 0070|climbing-stairs | | Done
+0083|Remove-Duplicates-from-Sorted-List| | Done|
 0118|pascals-triangle | | Done
 0119|pascals-triangle-ii | | Done
 0169|majority-element | | Done
