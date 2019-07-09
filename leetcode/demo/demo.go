@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
 	fmt.Println(test())
@@ -9,4 +11,3 @@ func main() {
 func test() bool {
 	return true
 }
-
