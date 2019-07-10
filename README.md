@@ -48,6 +48,7 @@ Practice makes perfect.
 0258|Add-Digits| | Done |
 0263|Ugly-Number | | Done |
 0268|Missing-Number || Done |
+0283|Move-Zeroes || Done|
 0292|Nim-Game || Done|
 0326|Power-of-Three | | Done |
 0344|Reverse-String | | Done |
