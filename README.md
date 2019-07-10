@@ -37,6 +37,7 @@ Practice makes perfect.
 0167|Two-Sum-II-Input-array-is-sorted| | Done |
 0168|Excel-Sheet-Column-Title| | Done |
 0169|majority-element | | Done
+0171|Excel-Sheet-Column-Number | |Done |
 0347|top-k-frequent-elements | Done 
 0349|intersection-of-two-arrays | | Done
 0387|first-unique-character-in-a-string | Done 
