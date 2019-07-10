@@ -33,6 +33,7 @@ Practice makes perfect.
 0122|Best-Time-to-Buy-and-Sell-Stock-II| | Done |
 0125|Valid-Palindrome| | Done|
 0136|Single-Number | | Done |
+0141|Linked-List-Cycle | | Done |
 0169|majority-element | | Done
 0347|top-k-frequent-elements | Done 
 0349|intersection-of-two-arrays | | Done
