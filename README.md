@@ -40,6 +40,7 @@ Practice makes perfect.
 0171|Excel-Sheet-Column-Number | |Done |
 0172|Factorial-Trailing-Zeroes| | Done |
 0198|House-Robber| | Done |
+0202|Happy-Number| | Done |
 0347|top-k-frequent-elements | Done 
 0349|intersection-of-two-arrays | | Done
 0387|first-unique-character-in-a-string | Done 
