@@ -47,6 +47,7 @@ Practice makes perfect.
 0231|Power-of-Two|| Done |
 0292|Nim-Game || Done|
 0326|Power-of-Three | | Done |
+0344|Reverse-String | | Done |
 0347|top-k-frequent-elements | Done 
 0349|intersection-of-two-arrays | | Done
 0387|first-unique-character-in-a-string | Done 
