@@ -60,6 +60,7 @@ Practice makes perfect.
 0389|Find-the-Difference || Done |
 0451|sort-characters-by-frequency | Done |
 0461|Hamming-Distance | | Done
+0507|Perfect-Number| | Done|
 0509|fibonacci-number | | Done
 0682|baseball-game | Done | 
 0709|to-lower-case | | Done
