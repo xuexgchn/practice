@@ -43,6 +43,7 @@ Practice makes perfect.
 0202|Happy-Number| | Done |
 0204|Count-Primes| | Done |
 0217|Contains-Duplicate | | Done |
+0219|Contains-Duplicate-II| | Done |
 0347|top-k-frequent-elements | Done 
 0349|intersection-of-two-arrays | | Done
 0387|first-unique-character-in-a-string | Done 
