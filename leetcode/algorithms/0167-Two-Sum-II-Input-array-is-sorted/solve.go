@@ -24,16 +24,15 @@ func twoSum(numbers []int, target int) []int {
 		return []int{}
 	}
 
-	for i := 0; i < length-1; i++ {
-		for j := length - 1; j > i; j-- {
-			sum := numbers[i] + numbers[j]
-			if sum > target {
-				continue
-			} else if sum == target {
-				return []int{i + 1, j + 1}
-			} else {
-				break
-			}
+	head, tail := 0, length-1
+	for head < tail {
+		sum := numbers[head] + numbers[tail]
+		if sum > target {
+			tail--
+		} else if sum == target {
+			return []int{head + 1, tail + 1}
+		} else {
+			head++
 		}
 	}
 
