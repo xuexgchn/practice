@@ -42,6 +42,7 @@ Practice makes perfect.
 0198|House-Robber| | Done |
 0202|Happy-Number| | Done |
 0204|Count-Primes| | Done |
+0217|Contains-Duplicate | | Done |
 0347|top-k-frequent-elements | Done 
 0349|intersection-of-two-arrays | | Done
 0387|first-unique-character-in-a-string | Done 
