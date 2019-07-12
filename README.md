@@ -55,6 +55,7 @@ Practice makes perfect.
 0345|Reverse-Vowels-of-a-String| | Done |
 0347|top-k-frequent-elements | Done 
 0349|intersection-of-two-arrays | | Done
+0367|Valid-Perfect-Square|| Done
 0383|Ransom-Note| | Done |
 0387|first-unique-character-in-a-string | Done 
 0389|Find-the-Difference || Done |
