@@ -59,6 +59,7 @@ Practice makes perfect.
 0383|Ransom-Note| | Done |
 0387|first-unique-character-in-a-string | Done 
 0389|Find-the-Difference || Done |
+0412|Fizz-Buzz|| Done |
 0448|Find-All-Numbers-Disappeared-in-an-Array|| Done|
 0451|sort-characters-by-frequency | Done |
 0455|Assign-Cookies|| Done|
