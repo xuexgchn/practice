@@ -68,6 +68,7 @@ Practice makes perfect.
 0509|fibonacci-number | | Done
 0520|Detect-Capital || Done|
 0575|Distribute-Candies || Done |
+0680|Valid-Palindrome-II|| Done |
 0682|baseball-game | Done | 
 0709|to-lower-case | | Done
 0746|min-cost-climbing-stairs | | Done
