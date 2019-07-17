@@ -67,6 +67,7 @@ Practice makes perfect.
 0455|Assign-Cookies|| Done|
 0485|Max-Consecutive-Ones || Done | 
 0461|Hamming-Distance | | Done
+0500|Keyboard-Row|| Done|
 0507|Perfect-Number| | Done|
 0509|fibonacci-number | | Done
 0520|Detect-Capital || Done|
