@@ -28,6 +28,7 @@ Practice makes perfect.
 0083|Remove-Duplicates-from-Sorted-List| | Done|
 0088|Merge-Sorted-Array | | Done |
 0100|Same-Tree || Done|
+0101|Symmetric-Tree || Done| 
 0118|pascals-triangle | | Done
 0119|pascals-triangle-ii | | Done
 0121|Best-Time-to-Buy-and-Sell-Stock | | Done|
