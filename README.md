@@ -63,6 +63,7 @@ Practice makes perfect.
 0412|Fizz-Buzz|| Done |
 0448|Find-All-Numbers-Disappeared-in-an-Array|| Done|
 0451|sort-characters-by-frequency | Done |
+0453|Minimum-Moves-to-Equal-Array-Elements || Done|
 0455|Assign-Cookies|| Done|
 0485|Max-Consecutive-Ones || Done | 
 0461|Hamming-Distance | | Done
