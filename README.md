@@ -52,6 +52,7 @@ Practice makes perfect.
 0202|Happy-Number| | Done |
 0203|Remove-Linked-List-Elements || Done |
 0204|Count-Primes| | Done |
+0205|Isomorphic-Strings || Done |
 0217|Contains-Duplicate | | Done |
 0219|Contains-Duplicate-II| | Done |
 0231|Power-of-Two|| Done |
