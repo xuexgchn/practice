@@ -47,6 +47,7 @@ Practice makes perfect.
 0169|majority-element | | Done
 0171|Excel-Sheet-Column-Number | |Done |
 0172|Factorial-Trailing-Zeroes| | Done |
+0189|Rotate-Array || Done |
 0198|House-Robber| | Done |
 0202|Happy-Number| | Done |
 0204|Count-Primes| | Done |
