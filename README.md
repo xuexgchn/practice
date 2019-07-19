@@ -59,6 +59,7 @@ Practice makes perfect.
 0231|Power-of-Two|| Done |
 0234|Palindrome-Linked-List || Done |
 0235|Lowest-Common-Ancestor-of-a-Binary-Search-Tree || Done |
+0237|Delete-Node-in-a-Linked-List || Done|
 0258|Add-Digits| | Done |
 0263|Ugly-Number | | Done |
 0268|Missing-Number || Done |
