@@ -68,6 +68,7 @@ Practice makes perfect.
 0283|Move-Zeroes || Done|
 0292|Nim-Game || Done|
 0326|Power-of-Three | | Done |
+0342|Power-of-Four || Done |
 0344|Reverse-String | | Done |
 0345|Reverse-Vowels-of-a-String| | Done |
 0347|top-k-frequent-elements | Done 
