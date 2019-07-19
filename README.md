@@ -55,6 +55,7 @@ Practice makes perfect.
 0205|Isomorphic-Strings || Done |
 0217|Contains-Duplicate | | Done |
 0219|Contains-Duplicate-II| | Done |
+0226|Invert-Binary-Tree || Done |
 0231|Power-of-Two|| Done |
 0258|Add-Digits| | Done |
 0263|Ugly-Number | | Done |
