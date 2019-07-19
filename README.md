@@ -61,6 +61,7 @@ Practice makes perfect.
 0235|Lowest-Common-Ancestor-of-a-Binary-Search-Tree || Done |
 0237|Delete-Node-in-a-Linked-List || Done|
 0242|Valid-Anagram ||Done |
+0257|Binary-Tree-Paths || Done |
 0258|Add-Digits| | Done |
 0263|Ugly-Number | | Done |
 0268|Missing-Number || Done |
