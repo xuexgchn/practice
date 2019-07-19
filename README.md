@@ -72,7 +72,8 @@ Practice makes perfect.
 0344|Reverse-String | | Done |
 0345|Reverse-Vowels-of-a-String| | Done |
 0347|top-k-frequent-elements | Done 
-0349|intersection-of-two-arrays | | Done
+0349|intersection-of-two-arrays | | Done |
+0350|Intersection-of-Two-Arrays-II || Done |
 0367|Valid-Perfect-Square|| Done
 0383|Ransom-Note| | Done |
 0387|first-unique-character-in-a-string | Done 
