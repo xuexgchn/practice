@@ -1,4 +1,4 @@
-var judgeSquareSum = function(c) {
+var judgeSquareSum = function (c) {
     if (c < 0) {
         return false
     } else if (c < 3) {
@@ -7,7 +7,7 @@ var judgeSquareSum = function(c) {
         let l = Math.ceil(Math.sqrt(c));
         for (let i = 0; i < l; i++) {
             let j = Math.ceil(Math.sqrt(c - i * i));
-            if(i <= j && i * i + j * j == c) {
+            if (i <= j && i * i + j * j == c) {
                 return true
             }
         }
