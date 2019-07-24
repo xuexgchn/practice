@@ -99,6 +99,7 @@ Practice makes perfect.
 0746|min-cost-climbing-stairs | | Done
 0771|jewels-and-stones | Done |
 0812|Largest-Triangle-Area ||| Done|
+0860|Lemonade-Change ||| Done |
 0921|minimum-add-to-make-parentheses-valid | Done |
 0961|N-Repeated-Element-in-Size-2N-Array | | Done |
 1051|Height-Checker| | Done |
