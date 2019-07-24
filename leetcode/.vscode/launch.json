@@ -9,7 +9,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}\\algorithms\\0860-Lemonade-Change\\solve.js"
+            "program": "${workspaceFolder}\\algorithms\\0728-Self-Dividing-Numbers\\solve.js"
         }
     ]
 }

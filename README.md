@@ -96,6 +96,7 @@ Practice makes perfect.
 0680|Valid-Palindrome-II|| Done |
 0682|baseball-game | Done | 
 0709|to-lower-case | | Done
+0728|Self-Dividing-Numbers ||| Done |
 0746|min-cost-climbing-stairs | | Done
 0771|jewels-and-stones | Done |
 0812|Largest-Triangle-Area ||| Done|
