@@ -97,6 +97,7 @@ Practice makes perfect.
 0682|baseball-game | Done | 
 0709|to-lower-case | | Done
 0728|Self-Dividing-Numbers ||| Done |
+0744|Find-Smallest-Letter-Greater-Than-Target ||| Done |
 0746|min-cost-climbing-stairs | | Done
 0771|jewels-and-stones | Done |
 0812|Largest-Triangle-Area ||| Done|
