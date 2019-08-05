@@ -104,6 +104,7 @@ Practice makes perfect.
 0860|Lemonade-Change ||| Done |
 0921|minimum-add-to-make-parentheses-valid | Done |
 0961|N-Repeated-Element-in-Size-2N-Array | | Done |
+0976|Largest-Perimeter-Triangle ||| Done |
 1047|Remove-All-Adjacent-Duplicates-In-String ||| Done |
 1051|Height-Checker| | Done |
 1103|Distribute-Candies-to-People | | Done |
