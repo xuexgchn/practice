@@ -92,6 +92,7 @@ Practice makes perfect.
 0509|fibonacci-number | | Done
 0520|Detect-Capital || Done|
 0575|Distribute-Candies || Done |
+0598|Range-Addition-II ||| Done |
 0633|Sum-of-Square-Numbers || | Done |
 0680|Valid-Palindrome-II|| Done |
 0682|baseball-game | Done | 
