@@ -96,6 +96,7 @@ Practice makes perfect.
 0598|Range-Addition-II ||| Done |
 0628|Maximum-Product-of-Three-Numbers ||| Done |
 0633|Sum-of-Square-Numbers || | Done |
+0645|Set-Mismatch ||| Done |
 0680|Valid-Palindrome-II|| Done |
 0682|baseball-game | Done | 
 0709|to-lower-case | | Done
