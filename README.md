@@ -108,6 +108,7 @@ Practice makes perfect.
 0860|Lemonade-Change ||| Done |
 0921|minimum-add-to-make-parentheses-valid | Done |
 0922|Sort-Array-By-Parity-II ||| Done |
+0942|DI-String-Match ||| Done |
 0944|Delete-Columns-to-Make-Sorted ||| Done |
 0961|N-Repeated-Element-in-Size-2N-Array | | Done |
 0976|Largest-Perimeter-Triangle ||| Done |
