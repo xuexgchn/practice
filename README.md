@@ -119,6 +119,7 @@ Practice makes perfect.
 1051|Height-Checker| | Done |
 1103|Distribute-Candies-to-People | | Done |
 1108|Defanging-an-IP-Address | | Done |
+1122|Relative-Sort-Array||| Done |
 1137|N-th-Tribonacci-Number ||| Done |
 
 --- 
