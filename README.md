@@ -110,6 +110,7 @@ Practice makes perfect.
 0961|N-Repeated-Element-in-Size-2N-Array | | Done |
 0976|Largest-Perimeter-Triangle ||| Done |
 0977|Squares-of-a-Sorted-Array ||| Done |
+1013|Partition-Array-Into-Three-Parts-With-Equal-Sum ||| Done |
 1025|Divisor-Game ||| Done | 
 1047|Remove-All-Adjacent-Duplicates-In-String ||| Done |
 1051|Height-Checker| | Done |
